@@ -1,0 +1,18 @@
+{
+  "name": "req-header-parser",
+  "version": "1.0.0",
+  "description": "Sends a JSON object with the IP address, language and operating system of the user",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ytv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ytv/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/ytv/request-header-parser#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
