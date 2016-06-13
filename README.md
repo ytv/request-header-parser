@@ -15,7 +15,7 @@ http://whoami-ytv.herokuapp.com/
 
 ```javascript
 {
-    ipaddress: "168.212.226.204",
+    ip: "168.212.226.204",
     language: "en-US",
     software: "Windows 10"
 }
@@ -27,4 +27,4 @@ http://whoami-ytv.herokuapp.com/
 
 ## Launch
 
-Launch this project with node `index.js`.
+Launch this project with `node index.js`.
